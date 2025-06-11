@@ -2,8 +2,6 @@
 
 This project demonstrates real-time object detection and tracking using **YOLOv8** and **SORT**. Vehicles are detected using a pre-trained YOLO model, and each one is tracked across frames with a unique ID using the SORT tracking algorithm.
 
-> 👥 Team Project by [Your Name] and [Friend’s Name]
-
 ---
 
 ## 📌 Features
